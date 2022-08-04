@@ -54,7 +54,7 @@ section h2 {
 
 table {
   width: 100%;
-  margin-bottom: 0.5em;
+  margin-bottom: 2em;
   table-layout: fixed;
 }
 
@@ -74,17 +74,23 @@ th {
 
 label {
   color: #555;
-  display: block;
-  margin-bottom: 0.2em;
+  display: flex;
+  margin-left: 7px;
+  margin-bottom: 0.7em;
+  
+  font-size: medium;
+  font-weight: bold;
 }
 
 .campo {
   margin: 0;
   padding-bottom: 1em;
   width: 100%;
-  border: 1px solid #ccc;
+  border: 1px solid  #ccc;
+  border-radius: 15px;
   padding: 0.7em;
   width: 100%;
+
 }
 
 .campo-medio {
@@ -107,9 +113,10 @@ button {
   margin: 0;
   margin-top: -3px;
   color: #fff;
-  background-color: #0c8cd3;
+  background-color: #9a9a11;
   border-color: #04324c;
-  width: 20%;
+  border-radius: 15px;
+  width: 30%;
   display: block;
   clear: both;
   margin: 10px 0px;
