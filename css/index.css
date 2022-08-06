@@ -144,3 +144,15 @@ button:disabled {
 .paciente-invalido {
   background-color: #ccb3d5;
 }
+
+#mensagens-erro {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #9a9a11;
+}
+
+ul li {
+  margin-top: 10px;
+}
