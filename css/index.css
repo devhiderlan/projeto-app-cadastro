@@ -156,3 +156,20 @@ button:disabled {
 ul li {
   margin-top: 10px;
 }
+
+.fadeOut {
+  opacity: 0;
+  transition: 0.5s;
+}
+
+#filtra-tabela {
+  margin-bottom: 20px;
+  width: 30%;
+  border: 1px solid  #ccc;
+  border-radius: 15px;
+  padding: 0.7em;
+}
+
+.invisivel {
+  display: none;
+}
