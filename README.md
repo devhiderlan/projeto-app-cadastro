@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-### Projeto de uma aplicação Web que simula o cadastro de dados de pacientes de um consultorio médico nutricionista.
+### Projeto de uma aplicação Web que simula o cadastro dos dados de pacientes de um consultorio médico nutricionista.
 
 #
 
@@ -19,6 +19,7 @@
 - Cadastro de novos pacientes
 - Exlcusão de pacientes com duplo click na linha da tabela que deseja excluir
 - Filtro de pesquisa
+- Calculo do IMC automaticamente
 - Busca de pacientes via API
 
 ## O que eu aprendi:
