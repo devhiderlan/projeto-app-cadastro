@@ -17,7 +17,7 @@
 
 ## Funcionalidades
 - Cadastro de novos pacientes
-- Exlcusão de pacientes com duplo click na linha da tabela que deseja excluir
+- Exclusão de pacientes com duplo click na linha da tabela que deseja excluir
 - Filtro de pesquisa
 - Calculo do IMC automaticamente
 - Busca de pacientes via API
