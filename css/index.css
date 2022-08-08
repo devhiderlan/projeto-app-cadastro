@@ -133,6 +133,10 @@ button:disabled {
   border-color: darkgray;
 }
 
+.botao-buscar {
+  margin-bottom: 15px ;
+}
+
 .adicionar-paciente {
   margin-top: 30px;
 }
@@ -172,4 +176,9 @@ ul li {
 
 .invisivel {
   display: none;
+}
+
+.rodape {
+  margin: 50px;
+  text-align: center;
 }
