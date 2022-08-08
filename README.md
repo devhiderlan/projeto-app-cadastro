@@ -1,4 +1,4 @@
-# projeto-tabela-imc
+# projeto-app-cadastro
 
 ## Visão Geral
 
